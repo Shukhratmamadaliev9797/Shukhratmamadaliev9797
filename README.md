@@ -1,5 +1,6 @@
 # Hi there, I'm Shukhrat Mamadaliev - Front-end web developer and designer
 <img src='https://media-exp1.licdn.com/dms/image/C4D16AQE-BTJVfNzlAQ/profile-displaybackgroundimage-shrink_350_1400/0/1624401664591?e=1629936000&v=beta&t=xLqX7KXYrVC5Q3Z5oG2H8R5XzTqGyzha2J9Ldak3toc' alt='me' />
+
 - 👀 I’m interested in solving problems and learning new technologies
 - 🌱 I’m currently learning server-side skills
 - 🥅 2021 Goals: Improve my knowledge and start my career
