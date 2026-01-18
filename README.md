@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Graphql, firebase, postgresql and more...**
 
-- 👨‍💻 All of my projects are available at [shukhrat.co.uk](shukhrat.co.uk)
+- 👨‍💻 All of my projects are available at [shukhrat.co.uk](iamshukhrat.com)
 
 - 📫 How to reach me **shukhratmamadaliev9797@gmail.com**
 
