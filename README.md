@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shukhrat Mamadaliev</h1>
-<h3 align="center">Full Stack Developer | React • Next.js • Node.js • Databases</h3>
+<h3 align="center">Full Stack Developer | React • Next.js • Node.js • Scalable Systems</h3>
 
 <p align="center">
   <a href="https://www.iamshukhrat.com">
-    <img src="https://img.shields.io/badge/Portfolio-iamshukhrat.com-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
   </a>
   <a href="mailto:shukhratmamadaliev9797@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" />
@@ -14,38 +14,70 @@
 
 ## 🚀 About Me
 
-I'm a **Full Stack Developer** focused on building modern, responsive, and scalable web applications.
+Full Stack Developer with experience building **modern, scalable, and production-ready applications**.
 
-- 🔭 Currently working on full stack and personal projects
-- 🌱 Improving my skills in backend architecture, databases, and modern deployment
-- 👨‍💻 Portfolio: **https://www.iamshukhrat.com**
-- 📫 Email: **shukhratmamadaliev9797@gmail.com**
+- 💻 Strong in both frontend & backend development
+- ⚡ Focused on performance, clean architecture, and scalability
+- 🌱 Exploring advanced system design & microservices
+- 🌍 Open for remote opportunities
 
 ---
 
 ## 🛠 Tech Stack
 
-### Frontend
-`HTML5` `CSS3` `JavaScript` `TypeScript` `React.js` `Next.js` `Redux` `Tailwind CSS` `Sass` `Bootstrap` `Materialize CSS`
+### 🎨 Frontend Engineering
+**Core:**  
+`HTML` `CSS` `JavaScript` `TypeScript` `Sass`
 
-### Backend
-`Node.js` `Express.js` `REST API` `GraphQL` `Authentication` `Authorization`
+**Frameworks & Libraries:**  
+`React` `Next.js` `Redux`
 
-### Database & Cloud
-`MongoDB` `PostgreSQL` `Firebase`
-
-### Tools & Deployment
-`Git` `GitHub` `Postman` `Vercel` `Render` `Railway` `Heroku`
+**UI & Styling:**  
+`Tailwind CSS` `Bootstrap` `React Bootstrap` `Ant Design`
 
 ---
 
-## 📌 Featured Work
+### 📱 Mobile Development
+`React Native` `Expo`
 
-Check out my projects and credentials here:
+---
 
-- 🌐 Portfolio: **https://www.iamshukhrat.com**
-- 🎓 Credentials: **https://www.iamshukhrat.com/credentials**
-- 💼 Projects: **https://www.iamshukhrat.com/projects**
+### ⚙️ Backend Engineering
+`Node.js` `Express.js` `NestJS`  
+`REST API` `GraphQL` (working experience)
+
+---
+
+### 🗄 Databases
+`MongoDB` `PostgreSQL` `Mongoose (ODM)`
+
+---
+
+### ☁️ DevOps & Tooling
+`Docker` `Git` `GitHub`  
+`CI/CD (GitHub Actions)`  
+`Vite`
+
+---
+
+### 🌐 Cloud & Services
+`AWS` `Stripe` `Socket.IO` `Cloudinary`
+
+---
+
+### 🧠 Architecture & Practices
+- MVC Architecture
+- Modular Architecture
+- Microservices Architecture
+- Microfrontend Architecture
+- REST API Best Practices
+
+---
+
+## 📂 Projects & Credentials
+
+- 🌐 Portfolio: https://www.iamshukhrat.com  
+- 🎓 Credentials: https://www.iamshukhrat.com/credentials  
 
 ---
 
@@ -53,10 +85,6 @@ Check out my projects and credentials here:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shukhratmamadaliev9797&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shukhratmamadaliev9797&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -75,4 +103,6 @@ Check out my projects and credentials here:
 
 ---
 
-> Building clean, scalable, and user-focused web applications.
+## 💡 Philosophy
+
+> I don’t just build apps — I build scalable systems with clean architecture.
